@@ -1,2 +1,2 @@
 # fake-news-detector
-A logistic Regression model for detecting Fake News
+A comprehensive analysis of ML classifier models to filter out fake news most accurately. Used popular NLTK modules.
